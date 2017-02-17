@@ -40,6 +40,16 @@ Crie um aplicativo mobile para Android, que gerencie a lista de funcionários de
 > - Você poderá tirar suas dúvidas no [Slack do Desafio][3]
 > - Ao finalizar o seu projeto, publique-o no Github e envie o link para bugginhodeveloper@gmail.com
 
+----------
+
+Quem já enviou?
+--------
+
+Confira abaixo uma lista com todos os amiguinhos que já concluíram o desafio:
+
+- Jonathan Luiz (https://github.com/Jowjowjowjowjow/DesafioBugginhoDeveloperAndroid)
+- Nicolas Viana da Silva (https://github.com/viananicolas/DesafioBugginho)
+
   [1]: https://www.oracle.com/java/index.html
   [2]: http://www.oracle.com/technetwork/java/javase/documentation/index.html
   [3]: https://bugginhominiprojetos.slack.com/
